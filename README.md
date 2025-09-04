@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello, this github account is a work in progress as I migrate some of my public-facing work here.
+
+For more about me: https://www.linkedin.com/in/zukai-sagan-909a31306/
+
+
 
 <!--
 **ZukaiSagan/ZukaiSagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
