@@ -1,4 +1,4 @@
-# Hello, this github account is a work in progress as I migrate some of my public-facing work here.
+# Hello, this github account is a work in progress as I migrate some of my public-facing work and projects here.
 
 
 ### I'm a Junior Computer Science student specializing in full stack software engineering in addition to ML Applications and Research.
