@@ -14,7 +14,7 @@ Some of my past experience includes:
 
 
 
-#### I'm currently working on my creating my own VPN, which I'll share more about below.
+#### I'm currently working on creating my own VPN, which I'll share more about below.
 
 
 
